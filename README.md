@@ -1,2 +1,8 @@
-# :tiger:	Tigrinho 2.0 :tiger:
-## Repositório destinado a criação de uma versão aprimorada do tão conhecido e aclamado "jogo do tigrinho" :japanese_goblin:.
+# Weather APP
+## Resumo da aplicação:
+
+```
+Atrata-se de uma aplicação que fornece informações meteorológicas básicas
+com base na localização do usuário. Pode mostrar a temperatura atual, condições climáticas
+e previsões para os próximos dias.
+```
